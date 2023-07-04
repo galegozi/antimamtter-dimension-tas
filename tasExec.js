@@ -21,4 +21,4 @@ function loadJS(FILE_URL, async = true) {
 
 loadJS("https://raw.githubusercontent.com/galegozi/antimamtter-dimension-tas/main/functions.js");
 //load taskRunner.js
-loadJS("https://raw.githubusercontent.com/galegozi/antimamtter-dimension-tas/main/taskRunner.js");
+loadJS("https://raw.githubusercontent.com/galegozi/antimamtter-dimension-tas/main/tasRunner.js");
